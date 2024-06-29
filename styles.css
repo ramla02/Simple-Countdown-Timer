@@ -1,0 +1,19 @@
+body {
+    background-image: url("image.jpg");
+}
+
+.container {
+    max-width: 400px;
+    margin: 15px;
+    text-align: center;
+    padding: 90px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+
+button {
+    cursor: pointer;
+}
